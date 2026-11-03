@@ -1,0 +1,15 @@
+{
+  "application": "GestorProjetosV7",
+  "version": [
+    7,
+    0,
+    1
+  ],
+  "files": [
+    {
+      "name": "servidor.py",
+      "url": "https://raw.githubusercontent.com/leandro9810/gestor-v7-atualizacoes/main/servidor.py",
+      "sha256": "1399beee382ddb8c884225905f1d91618dce0f0feed98b7d3bc4ae8781ada11d"
+    }
+  ]
+}
