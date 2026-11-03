@@ -3,13 +3,18 @@
   "version": [
     7,
     0,
-    1
+    2
   ],
   "files": [
     {
       "name": "servidor.py",
-      "url": "https://raw.githubusercontent.com/leandro9810/gestor-v7-atualizacoes/main/servidor.py",
+      "url": "https://raw.githubusercontent.com/leandro9810/gestor-v7-atualizacoes/64616c3d7449f37859cd5a6a5e7c46fba5d83d17/servidor.py",
       "sha256": "1399beee382ddb8c884225905f1d91618dce0f0feed98b7d3bc4ae8781ada11d"
+    },
+    {
+      "name": "interface.html",
+      "url": "https://raw.githubusercontent.com/leandro9810/gestor-v7-atualizacoes/64616c3d7449f37859cd5a6a5e7c46fba5d83d17/interface.html",
+      "sha256": "f29f55df89aa45a08557c49a064b4d7d237e42e751de14658dc02a26c821dc20"
     }
   ]
 }
