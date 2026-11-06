@@ -3,7 +3,7 @@
   "version": [
     7,
     0,
-    15
+    16
   ],
   "files": [
     {
@@ -13,8 +13,8 @@
     },
     {
       "name": "interface.html",
-      "url": "https://raw.githubusercontent.com/leandro9810/gestor-v7-atualizacoes/eb4c31fe254152aab5a3f9cae12d69e68101aaca/interface.html",
-      "sha256": "57f3c8b0a7c7dc878734519789528d3ac665fa188edf27e7213e99c3135c80af"
+      "url": "https://raw.githubusercontent.com/leandro9810/gestor-v7-atualizacoes/91f7a42feb80d0bade371baa70a403e96533972f/interface.html",
+      "sha256": "17ba16af59346ad7dea7f51b70739e5558582fd9bd29e06a320335cd533160ae"
     }
   ]
 }
